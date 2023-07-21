@@ -69,6 +69,13 @@ The project is running on the port number provided by you.
 - passport-local
 
 ## 🖼️ Screenshots
+![](./images/1.png)
+![](./images/2.png)
+![](./images/3.png)
+![](./images/4.png)
+![](./images/5.png)
+![](./images/6.png)
+
 
 ![](./public/2.png)
 ![](./public/3.png)
