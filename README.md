@@ -69,12 +69,12 @@ The project is running on the port number provided by you.
 - passport-local
 
 ## 🖼️ Screenshots
-![](./images/1.png)
-![](./images/2.png)
-![](./images/3.png)
-![](./images/4.png)
-![](./images/5.png)
-![](./images/6.png)
+# Admin dashboard: ![](./images/1.png)
+# sign up page: ![](./images/2.png)
+# sign in page: ![](./images/3.png)
+# assign review: ![](./images/4.png)
+# Employee dashboard: ![](./images/5.png)
+# Add Employee: ![](./images/6.png)
 
 
 ![](./public/2.png)
