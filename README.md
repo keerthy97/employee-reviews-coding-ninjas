@@ -29,13 +29,11 @@ It is built using NodeJs, ExpressJs, MongoDB, EJS and JavaScript.
 - Create .env file in the root directory and add the following:-
   - PORT="Your port number"
   - MONGODB_URL="Your MongoDB URL"
-  - SESSION_SECRET_KEY="Your secret session key"
 - Install all required packages
 
 ```bash
 npm install
 ```
-
 - Run project
 
 ```bash
