@@ -16,7 +16,7 @@ It is built using NodeJs, ExpressJs, MongoDB, EJS and JavaScript.
 - Update employee details
 - Assign review to employee
 - Update review of employee
-- (please check the admin functionalities with the following credentials):
+- (please check the admin dashboard with the following credentials):
   ``` bash
   username : admin1@gmail.com
    ```
